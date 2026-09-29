@@ -234,4 +234,4 @@ This repository serves as the official landing page for Sygate Personal Firewall
 **Get the most recent version of Sygate Personal Firewall today!**
 
 ---
-**Last updated:** 2026-09-28 21:37:53 UTC
+**Last updated:** 2026-09-29 01:31:57 UTC
